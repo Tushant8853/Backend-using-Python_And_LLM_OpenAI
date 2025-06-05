@@ -1,0 +1,8 @@
+.vscode
+.venv
+.env
+*.log
+fastapi-llm-backend.py
+*.ipynb
+*.pyc
+.idea/*
